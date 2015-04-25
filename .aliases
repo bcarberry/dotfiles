@@ -1,0 +1,8 @@
+# reload shell profile
+alias reload='source ~/.bash_profile'
+
+# relative navigation shortcuts
+alias ..='cd ../'
+alias ...='cd ../../'
+alias ....='cd ../../../'
+alias -- -='cd -'
