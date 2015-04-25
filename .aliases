@@ -6,3 +6,19 @@ alias ..='cd ../'
 alias ...='cd ../../'
 alias ....='cd ../../../'
 alias -- -='cd -'
+
+# git
+alias git='hub'
+alias amend='git commit --amend'
+alias branch='git branch'
+alias checkout='git checkout'
+alias commit='git commit'
+alias stash='git stash'
+alias status='git status'
+
+# Python
+alias py='python'
+alias py3='python3'
+
+# Sublime Text
+alias st='/usr/local/bin/subl'

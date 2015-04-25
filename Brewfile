@@ -11,11 +11,11 @@
 ##
 
 
-install ack
-install automake
-install libksba
-install libtool
-install libyaml
-install openssl
-install pkg-config
-install readline
+brew 'ack'
+brew 'automake'
+brew 'libksba'
+brew 'libtool'
+brew 'libyaml'
+brew 'openssl'
+brew 'pkg-config'
+brew 'readline'
