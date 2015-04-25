@@ -1,0 +1,27 @@
+##
+# Homebrew-cask
+# https://github.com/phinze/homebrew-cask/blob/master/USAGE.md
+#
+##
+
+# Make sure we're using the latest Homebrew
+update
+
+# Upgrade any all-ready installed formulae
+upgrade
+
+# Casks repository
+tap phinze/homebrew-cask
+
+# Homebrew-cask tool
+install brew-cask
+
+# Application Casks
+cask install dropbox
+cask install github
+cask install google-chrome
+cask install processing
+cask install skype
+cask install sublime-text3
+cask install spotify
+cask install firefox
